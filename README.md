@@ -23,5 +23,5 @@ In This Entire IT Developments Module, I will be creating 5 repositories includi
 
 * This branching strategy consists of the following branches:  
    
- -Master  
- -Develop  
+   -Master  
+   -Develop  
