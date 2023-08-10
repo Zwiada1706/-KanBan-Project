@@ -8,3 +8,6 @@ In This Entire IT Developments Module, I will be creating 5 repositories includi
 * Project 3
 * Project 4
 * Project 5
+
+## Branching Strategies
+
