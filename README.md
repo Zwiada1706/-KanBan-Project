@@ -16,12 +16,12 @@ In This Entire IT Developments Module, I will be creating 5 repositories includi
 * I will be using the GitFlow branching strategy 
 
 * My branching strategy aims to:
--Enhance productivity by ensuring proper coordination among developers
--Enable parallel development
--Help organize a series of planned, structured releases
--Map a clear path when making changes to software through to production
+- Enhance productivity by ensuring proper coordination among developers
+- Enable parallel development
+- Help organize a series of planned, structured releases
+- Map a clear path when making changes to software through to production
 
 * This branching strategy consists of the following branches:
 
--Master 
--Develop
+- Master 
+- Develop
