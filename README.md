@@ -48,4 +48,4 @@ When creating a .gitignore file, it's important to tailor it to the specific nee
 
 > Version-Controlled Template
 
-Most credentials will be stored using the Git Credential Manager (GCM) is another way to store your credentials securely and connect to GitHub over HTTPS. 
+* Most credentials will be stored using the Git Credential Manager (GCM) is another way to store your credentials securely and connect to GitHub over HTTPS. 
