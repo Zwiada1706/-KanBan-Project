@@ -23,3 +23,7 @@ In This Entire IT Developments Module, I will be creating 5 repositories includi
 * This branching strategy consists of the following branches:  
   -Master  
   -Develop  
+
+## Uses of .gitignore file within each project
+
+The .gitignore file is a crucial component in a version-controlled project using Git. It specifies patterns for files or directories that Git should ignore, meaning they won't be tracked by Git's version control system. This is particularly useful to prevent certain files from being committed to the repository, which can help keep your repository clean, reduce unnecessary clutter, and prevent sensitive information from being accidentally shared. Here are some common use cases for the .gitignore file:
