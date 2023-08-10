@@ -34,4 +34,17 @@ The .gitignore file is a crucial component in a version-controlled project using
 >There are also pre-made .gitignore templates available for various programming languages, frameworks, and IDEs that you can use as a starting point and customize as needed.  
 
 When creating a .gitignore file, it's important to tailor it to the specific needs of your project and the tools you're using.  
-  
+
+## Storage of Credentials and sensitive information
+
+* Storing credentials and sensitive information in a secure and responsible manner is crucial to protect your data and prevent unauthorized access.
+
+* Here are some of the storage credentials and sensitive protection of information I will be doing
+> Avoiding Hardcoding Credentials
+ 
+> The Use Environment Variables
+
+> Configuration Of Files
+
+> Version-Controlled Template  
+Most credentials will be stored using the Git Credential Manager (GCM) is another way to store your credentials securely and connect to GitHub over HTTPS. 
