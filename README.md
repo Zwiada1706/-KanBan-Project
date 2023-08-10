@@ -11,3 +11,4 @@ In This Entire IT Developments Module, I will be creating 5 repositories includi
 
 ## Branching Strategies
 
+Branching Strategy is a strategy that allows developers to collaborate on a project while also tracking changes and maintaining multpile versions of the database.There are many git branching strategies of which eact has its own ups and downs
